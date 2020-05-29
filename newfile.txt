@@ -1,2 +1,3 @@
 this is a newfile
 this is new line
+branch2
